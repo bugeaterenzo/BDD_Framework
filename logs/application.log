@@ -1,0 +1,5 @@
+2024-11-25 21:12:15 INFO  ConfigManager:49 - Configuration loaded for environment DEV
+2024-11-25 21:12:20 INFO  BaseTest:33 - Started test with URL https://www.facebook.com/
+2024-11-25 21:12:20 INFO  BaseTest:21 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-25 21:12:22 INFO  BaseTest:33 - Started test with URL https://www.facebook.com/
+2024-11-25 21:12:22 INFO  BaseTest:35 - Verifying that the browser is opened and we are navigating to correct URL.
